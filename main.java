@@ -1,7 +1,7 @@
-public class cauculadorasoma {
+public class main {
 
     public static void main(String[] args) {
-        int resultado = cauculadora.somadoisnumeros( 3, 2);
+        int resultado = cauculadora.somadoisnumeros( 4, 2);
         System.out.println(resultado);
     }
 }
