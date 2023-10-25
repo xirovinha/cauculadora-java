@@ -1,2 +1,2 @@
 # cauculadora-java
-public static void main 
+primeiro projeto desenvolvido por mim. Uma cauculadora de soma
