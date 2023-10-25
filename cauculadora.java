@@ -1,6 +1,6 @@
 public class cauculadora {
-
-    public static void main(String[] args) {
-        int somanumero = (int numeroum + int numerodois);
+    public static int somadoisnumeros(int primeironumero, int segundonumero) {
+        int somanumero = (primeironumero + segundonumero);
+        return somanumero;
     }
 }
